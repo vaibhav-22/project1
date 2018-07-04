@@ -1,5 +1,2 @@
 hi this is first text file. I am vaibhav.
-1
-2
-3
 
